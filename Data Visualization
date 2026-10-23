@@ -1,1 +1,43 @@
+Objective
 
+To represent plant growth data visually and identify patterns and relationships between plant growth and environmental factors.
+
+Dataset
+Original dataset: 1,000 records and 17 columns.
+Important attributes include plant height, leaf count, new growth count, temperature, humidity, soil moisture, soil type, and fertilizer type.
+The visualizations are generated from the original dataset.
+Graphs and Their Purpose
+
+1. New Growth Count Distribution — Histogram
+
+Purpose: To understand the distribution of New_Growth_Count values across the dataset.
+
+2. Soil Moisture vs. New Growth — Scatter Plot
+
+Purpose: To examine the relationship between soil moisture and New_Growth_Count.
+
+3. Plant Height vs. New Growth — Scatter Plot
+
+Purpose: To explore the relationship between plant height and New_Growth_Count.
+
+4. Average New Growth by Soil Type — Bar Chart
+
+Purpose: To compare average New_Growth_Count across different soil categories.
+
+5. Average New Growth by Fertilizer Type — Bar Chart
+
+Purpose: To compare average New_Growth_Count across different fertilizer categories.
+
+Tools Used
+Python
+Matplotlib
+CSV dataset for data loading
+Expected Deliverables
+Growth distribution histogram
+Soil moisture versus growth scatter plot
+Plant height versus growth scatter plot
+Soil-type comparison bar chart
+Fertilizer-type comparison bar chart
+Role of Data Visualization in the Project
+
+These graphs help users explore plant growth patterns and understand relationships between plant characteristics, soil conditions, and fertilizer categories. The visualizations also support exploratory data analysis before Machine Learning model development.
