@@ -1,1 +1,8 @@
 
+docs/
+├── SRS.pdf
+├── system_architecture.png
+├── use_case_diagram.png
+├── activity_diagram.png
+├── database_design.png
+└── test_cases.md
